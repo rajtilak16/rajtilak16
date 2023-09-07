@@ -5,9 +5,9 @@
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajtilak16&label=Profile%20views&color=0e75b6&style=flat" alt="rajtilak16" /> </p>
 
-- 🌱 I’m currently learning **Nodejs and django**
+- 🌱 I’m am a **MERN** stack developer.
 
-- 💬 Ask me about **Frontend Web Development**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **rajtilakpandey01@gmail.com**
 
